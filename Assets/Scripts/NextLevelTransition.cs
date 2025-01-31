@@ -5,6 +5,8 @@ public class DoorController : MonoBehaviour
 {
     public string nextLevelName;
 
+    //когда ГГ сталкивается с дверью - загружается следующая сцена (уровень)
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
