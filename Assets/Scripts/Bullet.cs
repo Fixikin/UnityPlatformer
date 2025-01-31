@@ -8,6 +8,7 @@ public class Bullet : MonoBehaviour
 
     private void Start()
     {
+        //При появлении начинаем рутину Death, которая уничтожает объект через 5 (если никуда не попала)
         StartCoroutine(Death());
     }
 
@@ -27,6 +28,7 @@ public class Bullet : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        //Если пуля попадает во что-то - она уничтожается. Если в ГГ - он получает урон
         if (collision.gameObject == Hero.Instance.gameObject)
         {
             Hero.Instance.GetDamage();
