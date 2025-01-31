@@ -4,16 +4,16 @@ public static class SaveSystem
 {
     private const string LAST_LEVEL_KEY = "LastLevel";
 
-    // Сохраняем текущий уровень
+    // РЎРѕС…СЂР°РЅСЏРµРј С‚РµРєСѓС‰РёР№ СѓСЂРѕРІРµРЅСЊ
     public static void SaveLevel(int levelIndex)
     {
         PlayerPrefs.SetInt(LAST_LEVEL_KEY, levelIndex);
-        PlayerPrefs.Save(); // Сохраняем изменения
+        PlayerPrefs.Save(); // РЎРѕС…СЂР°РЅСЏРµРј РёР·РјРµРЅРµРЅРёСЏ
     }
 
-    // Загружаем последний сохранённый уровень
+    // Р—Р°РіСЂСѓР¶Р°РµРј РїРѕСЃР»РµРґРЅРёР№ СЃРѕС…СЂР°РЅС‘РЅРЅС‹Р№ СѓСЂРѕРІРµРЅСЊ
     public static int LoadLevel()
     {
-        return PlayerPrefs.GetInt(LAST_LEVEL_KEY, 1); // 1 — уровень по умолчанию
+        return PlayerPrefs.GetInt(LAST_LEVEL_KEY, 1); // 1 вЂ” СѓСЂРѕРІРµРЅСЊ РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ
     }
 }
