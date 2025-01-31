@@ -8,6 +8,8 @@ public class CameraController : MonoBehaviour
     private Vector3 pos;
 
     [System.Obsolete]
+
+    //Находим Hero и ставим камеру над ним
     private void Awake()
     {
         if (!player)
