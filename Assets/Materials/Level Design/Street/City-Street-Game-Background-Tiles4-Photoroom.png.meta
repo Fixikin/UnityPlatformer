@@ -1,0 +1,2730 @@
+fileFormatVersion: 2
+guid: acaa5c764dd781f4eaa034739e6b3af1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1502156847212816877
+    second: City-Street-Game-Background-Tiles4-Photoroom_0
+  - first:
+      213: 8842078893349964905
+    second: City-Street-Game-Background-Tiles4-Photoroom_1
+  - first:
+      213: -5015912461869878717
+    second: City-Street-Game-Background-Tiles4-Photoroom_2
+  - first:
+      213: 7546616882065141761
+    second: City-Street-Game-Background-Tiles4-Photoroom_3
+  - first:
+      213: 2213889769978541152
+    second: City-Street-Game-Background-Tiles4-Photoroom_4
+  - first:
+      213: 3270143364392756785
+    second: City-Street-Game-Background-Tiles4-Photoroom_5
+  - first:
+      213: -5782079891694077689
+    second: City-Street-Game-Background-Tiles4-Photoroom_6
+  - first:
+      213: -8052260236914517200
+    second: City-Street-Game-Background-Tiles4-Photoroom_7
+  - first:
+      213: 6498168229723876593
+    second: City-Street-Game-Background-Tiles4-Photoroom_8
+  - first:
+      213: -6654456880730355190
+    second: City-Street-Game-Background-Tiles4-Photoroom_9
+  - first:
+      213: 7614612932021396336
+    second: City-Street-Game-Background-Tiles4-Photoroom_10
+  - first:
+      213: -6237450457995604285
+    second: City-Street-Game-Background-Tiles4-Photoroom_11
+  - first:
+      213: -6580874552038184053
+    second: City-Street-Game-Background-Tiles4-Photoroom_12
+  - first:
+      213: -4883457453352741212
+    second: City-Street-Game-Background-Tiles4-Photoroom_13
+  - first:
+      213: 6377491850084904935
+    second: City-Street-Game-Background-Tiles4-Photoroom_14
+  - first:
+      213: 2072075172979179450
+    second: City-Street-Game-Background-Tiles4-Photoroom_15
+  - first:
+      213: 2357414215725291784
+    second: City-Street-Game-Background-Tiles4-Photoroom_16
+  - first:
+      213: -1489246274727838799
+    second: City-Street-Game-Background-Tiles4-Photoroom_17
+  - first:
+      213: -3258295303007521973
+    second: City-Street-Game-Background-Tiles4-Photoroom_18
+  - first:
+      213: -2640722207945443905
+    second: City-Street-Game-Background-Tiles4-Photoroom_19
+  - first:
+      213: -834672970589425629
+    second: City-Street-Game-Background-Tiles4-Photoroom_20
+  - first:
+      213: 6960788942114089831
+    second: City-Street-Game-Background-Tiles4-Photoroom_21
+  - first:
+      213: 2338622130143336132
+    second: City-Street-Game-Background-Tiles4-Photoroom_22
+  - first:
+      213: 3290658759525280949
+    second: City-Street-Game-Background-Tiles4-Photoroom_23
+  - first:
+      213: 7487870985802677873
+    second: City-Street-Game-Background-Tiles4-Photoroom_24
+  - first:
+      213: 8638411338216840200
+    second: City-Street-Game-Background-Tiles4-Photoroom_25
+  - first:
+      213: 766935796303300579
+    second: City-Street-Game-Background-Tiles4-Photoroom_26
+  - first:
+      213: 8263705889262528330
+    second: City-Street-Game-Background-Tiles4-Photoroom_27
+  - first:
+      213: 1371317640564358423
+    second: City-Street-Game-Background-Tiles4-Photoroom_28
+  - first:
+      213: -2565754732833770386
+    second: City-Street-Game-Background-Tiles4-Photoroom_29
+  - first:
+      213: -6996230619967647400
+    second: City-Street-Game-Background-Tiles4-Photoroom_30
+  - first:
+      213: 5157451510153785466
+    second: City-Street-Game-Background-Tiles4-Photoroom_31
+  - first:
+      213: 6186670904586770368
+    second: City-Street-Game-Background-Tiles4-Photoroom_32
+  - first:
+      213: -8335349790189333192
+    second: City-Street-Game-Background-Tiles4-Photoroom_33
+  - first:
+      213: -6439726403032347154
+    second: City-Street-Game-Background-Tiles4-Photoroom_34
+  - first:
+      213: -5278053509829958518
+    second: City-Street-Game-Background-Tiles4-Photoroom_35
+  - first:
+      213: 7732452031884858201
+    second: City-Street-Game-Background-Tiles4-Photoroom_36
+  - first:
+      213: 179296425133868664
+    second: City-Street-Game-Background-Tiles4-Photoroom_37
+  - first:
+      213: -643061514567497380
+    second: City-Street-Game-Background-Tiles4-Photoroom_38
+  - first:
+      213: -7804588178775255620
+    second: City-Street-Game-Background-Tiles4-Photoroom_39
+  - first:
+      213: -6701612465148677682
+    second: City-Street-Game-Background-Tiles4-Photoroom_40
+  - first:
+      213: -8672260226032044743
+    second: City-Street-Game-Background-Tiles4-Photoroom_41
+  - first:
+      213: 7598475631738268868
+    second: City-Street-Game-Background-Tiles4-Photoroom_42
+  - first:
+      213: 509657868666143600
+    second: City-Street-Game-Background-Tiles4-Photoroom_43
+  - first:
+      213: 8895842439539780043
+    second: City-Street-Game-Background-Tiles4-Photoroom_44
+  - first:
+      213: -6815363471160004883
+    second: City-Street-Game-Background-Tiles4-Photoroom_45
+  - first:
+      213: -7718572548676095108
+    second: City-Street-Game-Background-Tiles4-Photoroom_46
+  - first:
+      213: -1109247479787176644
+    second: City-Street-Game-Background-Tiles4-Photoroom_47
+  - first:
+      213: -1009937501604571200
+    second: City-Street-Game-Background-Tiles4-Photoroom_48
+  - first:
+      213: -6999189424191315486
+    second: City-Street-Game-Background-Tiles4-Photoroom_49
+  - first:
+      213: -8086280378119838998
+    second: City-Street-Game-Background-Tiles4-Photoroom_50
+  - first:
+      213: -6404780911929555397
+    second: City-Street-Game-Background-Tiles4-Photoroom_51
+  - first:
+      213: -8231517322944119464
+    second: City-Street-Game-Background-Tiles4-Photoroom_52
+  - first:
+      213: -6654771942988968995
+    second: City-Street-Game-Background-Tiles4-Photoroom_53
+  - first:
+      213: 9053629515918082890
+    second: City-Street-Game-Background-Tiles4-Photoroom_54
+  - first:
+      213: 5545288086222224112
+    second: City-Street-Game-Background-Tiles4-Photoroom_55
+  - first:
+      213: -2081189021420345259
+    second: City-Street-Game-Background-Tiles4-Photoroom_56
+  - first:
+      213: 8958246980559518115
+    second: City-Street-Game-Background-Tiles4-Photoroom_57
+  - first:
+      213: 8194821758577573566
+    second: City-Street-Game-Background-Tiles4-Photoroom_58
+  - first:
+      213: -904317647977971256
+    second: City-Street-Game-Background-Tiles4-Photoroom_59
+  - first:
+      213: 4137704900033266393
+    second: City-Street-Game-Background-Tiles4-Photoroom_60
+  - first:
+      213: -3670080631031691583
+    second: City-Street-Game-Background-Tiles4-Photoroom_61
+  - first:
+      213: -6111479263657367160
+    second: City-Street-Game-Background-Tiles4-Photoroom_62
+  - first:
+      213: 6975883946732251482
+    second: City-Street-Game-Background-Tiles4-Photoroom_63
+  - first:
+      213: -4376717722474928695
+    second: City-Street-Game-Background-Tiles4-Photoroom_64
+  - first:
+      213: 6996849671764084027
+    second: City-Street-Game-Background-Tiles4-Photoroom_65
+  - first:
+      213: -8605718458772594635
+    second: City-Street-Game-Background-Tiles4-Photoroom_66
+  - first:
+      213: 2220340676670988717
+    second: City-Street-Game-Background-Tiles4-Photoroom_67
+  - first:
+      213: -6840886008365851816
+    second: City-Street-Game-Background-Tiles4-Photoroom_68
+  - first:
+      213: 6436597929308452086
+    second: City-Street-Game-Background-Tiles4-Photoroom_69
+  - first:
+      213: 7767245584379237414
+    second: City-Street-Game-Background-Tiles4-Photoroom_70
+  - first:
+      213: 8892801227445562344
+    second: City-Street-Game-Background-Tiles4-Photoroom_71
+  - first:
+      213: -2603679862403440193
+    second: City-Street-Game-Background-Tiles4-Photoroom_72
+  - first:
+      213: -4757413592718021662
+    second: City-Street-Game-Background-Tiles4-Photoroom_73
+  - first:
+      213: 7185577099935732656
+    second: City-Street-Game-Background-Tiles4-Photoroom_74
+  - first:
+      213: -9145778727651439983
+    second: City-Street-Game-Background-Tiles4-Photoroom_75
+  - first:
+      213: -4300234220112498522
+    second: City-Street-Game-Background-Tiles4-Photoroom_76
+  - first:
+      213: -3723419380544690623
+    second: City-Street-Game-Background-Tiles4-Photoroom_77
+  - first:
+      213: 5368965061823619310
+    second: City-Street-Game-Background-Tiles4-Photoroom_78
+  - first:
+      213: -5325488621749127089
+    second: City-Street-Game-Background-Tiles4-Photoroom_79
+  - first:
+      213: 6300142879387722229
+    second: City-Street-Game-Background-Tiles4-Photoroom_80
+  - first:
+      213: -5632874204021398442
+    second: City-Street-Game-Background-Tiles4-Photoroom_81
+  - first:
+      213: 4235027209404761045
+    second: City-Street-Game-Background-Tiles4-Photoroom_82
+  - first:
+      213: -7983318060009652835
+    second: City-Street-Game-Background-Tiles4-Photoroom_83
+  - first:
+      213: -5620205858756654745
+    second: City-Street-Game-Background-Tiles4-Photoroom_84
+  - first:
+      213: 8054084269696682717
+    second: City-Street-Game-Background-Tiles4-Photoroom_85
+  - first:
+      213: -8383986052292791053
+    second: City-Street-Game-Background-Tiles4-Photoroom_86
+  - first:
+      213: 2088769195845304507
+    second: City-Street-Game-Background-Tiles4-Photoroom_87
+  - first:
+      213: -8406315813294173046
+    second: City-Street-Game-Background-Tiles4-Photoroom_88
+  - first:
+      213: 6967755007713809268
+    second: City-Street-Game-Background-Tiles4-Photoroom_89
+  - first:
+      213: 6542177879621144812
+    second: City-Street-Game-Background-Tiles4-Photoroom_90
+  - first:
+      213: -4215442172109149854
+    second: City-Street-Game-Background-Tiles4-Photoroom_91
+  - first:
+      213: 5397938557293231327
+    second: City-Street-Game-Background-Tiles4-Photoroom_92
+  - first:
+      213: -4117573026055484448
+    second: City-Street-Game-Background-Tiles4-Photoroom_93
+  - first:
+      213: 4788049453691160159
+    second: City-Street-Game-Background-Tiles4-Photoroom_94
+  - first:
+      213: -7376364589798314162
+    second: City-Street-Game-Background-Tiles4-Photoroom_95
+  - first:
+      213: 6795088288486802245
+    second: City-Street-Game-Background-Tiles4-Photoroom_96
+  - first:
+      213: -4576680778190936080
+    second: City-Street-Game-Background-Tiles4-Photoroom_97
+  - first:
+      213: 585188009177644246
+    second: City-Street-Game-Background-Tiles4-Photoroom_98
+  - first:
+      213: 4750566695783707573
+    second: City-Street-Game-Background-Tiles4-Photoroom_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 745
+        width: 715
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de96a0b91bbb8d410800000000000000
+      internalID: 1502156847212816877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 604
+        width: 307
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c8a1af7ef55ba70800000000000000
+      internalID: 8842078893349964905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 693
+        width: 105
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3427acdf036e36ab0800000000000000
+      internalID: -5015912461869878717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 604
+        width: 15
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100757f0218fab860800000000000000
+      internalID: 7546616882065141761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 647
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064317f140159be10800000000000000
+      internalID: 2213889769978541152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 647
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1362b3f5012e16d20800000000000000
+      internalID: 3270143364392756785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 647
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70935a829fce1cfa0800000000000000
+      internalID: -5782079891694077689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 604
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b15bb2aff904090800000000000000
+      internalID: -8052260236914517200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 604
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcab6f73912e2a50800000000000000
+      internalID: 6498168229723876593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 604
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ac9ea49be96a3a0800000000000000
+      internalID: -6654456880730355190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 604
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0732b332e1a8ca960800000000000000
+      internalID: 7614612932021396336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 653
+        width: 105
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce031b1bdf1079a0800000000000000
+      internalID: -6237450457995604285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 638
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b2b5e36790ca4a0800000000000000
+      internalID: -6580874552038184053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 492
+        width: 207
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a61d21e1597a3cb0800000000000000
+      internalID: -4883457453352741212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 492
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef624a5c07618850800000000000000
+      internalID: 6377491850084904935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 492
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf7459346d71cc10800000000000000
+      internalID: 2072075172979179450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 492
+        width: 15
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80913c43db737b020800000000000000
+      internalID: 2357414215725291784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 587
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbf5cb4762255be0800000000000000
+      internalID: -1489246274727838799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 587
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43b9e26fa538c2d0800000000000000
+      internalID: -3258295303007521973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 534
+        width: 35
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb53dec94254a5bd0800000000000000
+      internalID: -2640722207945443905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 587
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320b5640b55aa64f0800000000000000
+      internalID: -834672970589425629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 534
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b6d2bb9a0b99060800000000000000
+      internalID: 6960788942114089831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 534
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c69f03df64747020800000000000000
+      internalID: 2338622130143336132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 534
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc288605b4caad20800000000000000
+      internalID: 3290658759525280949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 477
+        width: 60
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ef8b83df24ae760800000000000000
+      internalID: 7487870985802677873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 477
+        width: 59
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c1f16085dc1e770800000000000000
+      internalID: 8638411338216840200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 477
+        width: 59
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e780381b04b4aa00800000000000000
+      internalID: 766935796303300579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 477
+        width: 70
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47ebc929b49ea270800000000000000
+      internalID: 8263705889262528330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 477
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71db018e026e70310800000000000000
+      internalID: 1371317640564358423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 477
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e647aa81aab946cd0800000000000000
+      internalID: -2565754732833770386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 382
+        width: 307
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8511e1a915568ee90800000000000000
+      internalID: -6996230619967647400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 470
+        width: 104
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70b409b2d2f29740800000000000000
+      internalID: 5157451510153785466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 380
+        width: 15
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7932ac8687bd550800000000000000
+      internalID: 6186670904586770368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 450
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83553254783e25c80800000000000000
+      internalID: -8335349790189333192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 450
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed8d80a4fe71a6a0800000000000000
+      internalID: -6439726403032347154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 450
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84e4111c4690c6b0800000000000000
+      internalID: -5278053509829958518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 430
+        width: 104
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9539e3b97203f4b60800000000000000
+      internalID: 7732452031884858201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 391
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8760a91162dfc7200800000000000000
+      internalID: 179296425133868664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 338
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59ca77a5f26317f0800000000000000
+      internalID: -643061514567497380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 338
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb553e1e66880b390800000000000000
+      internalID: -7804588178775255620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 338
+        width: 35
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1bb7838f61ff2a0800000000000000
+      internalID: -6701612465148677682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 411
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9357c93a541f5a780800000000000000
+      internalID: -8672260226032044743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 411
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cca8302455337960800000000000000
+      internalID: 7598475631738268868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 411
+        width: 91
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07304da912ba21700800000000000000
+      internalID: 509657868666143600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 411
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9ec9a0191647b70800000000000000
+      internalID: 8895842439539780043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 270
+        width: 206
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deea5564807fa61a0800000000000000
+      internalID: -6815363471160004883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 270
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c737417692f12e490800000000000000
+      internalID: -7718572548676095108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 270
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3db94f4b492b90f0800000000000000
+      internalID: -1109247479787176644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 270
+        width: 15
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c79383713bfbf1f0800000000000000
+      internalID: -1009937501604571200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 338
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1e76f4d42edde90800000000000000
+      internalID: -6999189424191315486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 305
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2a4fbc6d2c7cf80800000000000000
+      internalID: -8086280378119838998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 304
+        width: 90
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b368c30d1b5ad17a0800000000000000
+      internalID: -6404780911929555397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 261
+        width: 89
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85df0737b96c3cd80800000000000000
+      internalID: -8231517322944119464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 261
+        width: 15
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb08e42d2085a3a0800000000000000
+      internalID: -6654771942988968995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 354
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a430a489314f4ad70800000000000000
+      internalID: 9053629515918082890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 362
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa3b7c5222d4fc40800000000000000
+      internalID: 5545288086222224112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 303
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5582cc39c912e13e0800000000000000
+      internalID: -2081189021420345259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 348
+        width: 49
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9377e7a26125c70800000000000000
+      internalID: 8958246980559518115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 335
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe78ada8fad9b170800000000000000
+      internalID: 8194821758577573566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 160
+        width: 308
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c10824f3e73373f0800000000000000
+      internalID: -904317647977971256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 248
+        width: 105
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d240ef1fa41c6930800000000000000
+      internalID: 4137704900033266393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 160
+        width: 15
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6805a6c11411dc0800000000000000
+      internalID: -3670080631031691583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 256
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889698d5df9af2ba0800000000000000
+      internalID: -6111479263657367160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 256
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59635f5d715fc060800000000000000
+      internalID: 6975883946732251482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 257
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5a9b59b66c243c0800000000000000
+      internalID: -4376717722474928695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 200
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b358e40a4bdc91160800000000000000
+      internalID: 6996849671764084027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 201
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53066d328a8529880800000000000000
+      internalID: -8605718458772594635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 252
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da12351e41c30de10800000000000000
+      internalID: 2220340676670988717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 174
+        width: 44
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bd9628b6a4011a0800000000000000
+      internalID: -6840886008365851816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 208
+        width: 105
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4f172d6b3635950800000000000000
+      internalID: 6436597929308452086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 196
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6245524d4bccacb60800000000000000
+      internalID: 7767245584379237414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 143
+        width: 35
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebec0ca993996b70800000000000000
+      internalID: 8892801227445562344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 143
+        width: 35
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1ea94c5fedddbd0800000000000000
+      internalID: -2603679862403440193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 196
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb6d641b854afdb0800000000000000
+      internalID: -4757413592718021662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 198
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3d9d33d4c48b360800000000000000
+      internalID: 7185577099935732656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 198
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a030024baa31180800000000000000
+      internalID: -9145778727651439983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 198
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0373ba2cf7254c0800000000000000
+      internalID: -4300234220112498522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 197
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14624d80dc1c35cc0800000000000000
+      internalID: -3723419380544690623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 201
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0ea791745628a40800000000000000
+      internalID: 5368965061823619310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 207
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48324d60501816b0800000000000000
+      internalID: -5325488621749127089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 48
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1ac18b19a9e6750800000000000000
+      internalID: 6300142879387722229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 48
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654e7d471c204d1b0800000000000000
+      internalID: -5632874204021398442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 48
+        width: 15
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d34fae0fc6d5ca30800000000000000
+      internalID: 4235027209404761045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 143
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9df928958e853190800000000000000
+      internalID: -7983318060009652835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 143
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7698d307c840102b0800000000000000
+      internalID: -5620205858756654745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 127
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda055e88fad5cf60800000000000000
+      internalID: 8054084269696682717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 127
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4324f0b1916ab80800000000000000
+      internalID: -8383986052292791053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 149
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb04320548cccfc10800000000000000
+      internalID: 2088769195845304507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 149
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a841ade6e44c65b80800000000000000
+      internalID: -8406315813294173046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 120
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4731bb4434072b060800000000000000
+      internalID: 6967755007713809268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 46
+        width: 44
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce09c3c9e1c7aca50800000000000000
+      internalID: 6542177879621144812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 96
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269ab38cdadbf75c0800000000000000
+      internalID: -4215442172109149854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 97
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcf8d2b48459ea40800000000000000
+      internalID: 5397938557293231327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 47
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb8b3d06217bd6c0800000000000000
+      internalID: -4117573026055484448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 47
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56c3462c91927240800000000000000
+      internalID: 4788049453691160159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 67
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f2d4bbc73e1a990800000000000000
+      internalID: -7376364589798314162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 67
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5434ca4ebc00d4e50800000000000000
+      internalID: 6795088288486802245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 47
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7229d941d5c70c0800000000000000
+      internalID: -4576680778190936080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 58
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcf9d5d4610f1800800000000000000
+      internalID: 585188009177644246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City-Street-Game-Background-Tiles4-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 58
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b33dff7d376de140800000000000000
+      internalID: 4750566695783707573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9d61f7145d342fd498624c95fdc09f15
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      City-Street-Game-Background-Tiles4-Photoroom_0: 1502156847212816877
+      City-Street-Game-Background-Tiles4-Photoroom_1: 8842078893349964905
+      City-Street-Game-Background-Tiles4-Photoroom_10: 7614612932021396336
+      City-Street-Game-Background-Tiles4-Photoroom_11: -6237450457995604285
+      City-Street-Game-Background-Tiles4-Photoroom_12: -6580874552038184053
+      City-Street-Game-Background-Tiles4-Photoroom_13: -4883457453352741212
+      City-Street-Game-Background-Tiles4-Photoroom_14: 6377491850084904935
+      City-Street-Game-Background-Tiles4-Photoroom_15: 2072075172979179450
+      City-Street-Game-Background-Tiles4-Photoroom_16: 2357414215725291784
+      City-Street-Game-Background-Tiles4-Photoroom_17: -1489246274727838799
+      City-Street-Game-Background-Tiles4-Photoroom_18: -3258295303007521973
+      City-Street-Game-Background-Tiles4-Photoroom_19: -2640722207945443905
+      City-Street-Game-Background-Tiles4-Photoroom_2: -5015912461869878717
+      City-Street-Game-Background-Tiles4-Photoroom_20: -834672970589425629
+      City-Street-Game-Background-Tiles4-Photoroom_21: 6960788942114089831
+      City-Street-Game-Background-Tiles4-Photoroom_22: 2338622130143336132
+      City-Street-Game-Background-Tiles4-Photoroom_23: 3290658759525280949
+      City-Street-Game-Background-Tiles4-Photoroom_24: 7487870985802677873
+      City-Street-Game-Background-Tiles4-Photoroom_25: 8638411338216840200
+      City-Street-Game-Background-Tiles4-Photoroom_26: 766935796303300579
+      City-Street-Game-Background-Tiles4-Photoroom_27: 8263705889262528330
+      City-Street-Game-Background-Tiles4-Photoroom_28: 1371317640564358423
+      City-Street-Game-Background-Tiles4-Photoroom_29: -2565754732833770386
+      City-Street-Game-Background-Tiles4-Photoroom_3: 7546616882065141761
+      City-Street-Game-Background-Tiles4-Photoroom_30: -6996230619967647400
+      City-Street-Game-Background-Tiles4-Photoroom_31: 5157451510153785466
+      City-Street-Game-Background-Tiles4-Photoroom_32: 6186670904586770368
+      City-Street-Game-Background-Tiles4-Photoroom_33: -8335349790189333192
+      City-Street-Game-Background-Tiles4-Photoroom_34: -6439726403032347154
+      City-Street-Game-Background-Tiles4-Photoroom_35: -5278053509829958518
+      City-Street-Game-Background-Tiles4-Photoroom_36: 7732452031884858201
+      City-Street-Game-Background-Tiles4-Photoroom_37: 179296425133868664
+      City-Street-Game-Background-Tiles4-Photoroom_38: -643061514567497380
+      City-Street-Game-Background-Tiles4-Photoroom_39: -7804588178775255620
+      City-Street-Game-Background-Tiles4-Photoroom_4: 2213889769978541152
+      City-Street-Game-Background-Tiles4-Photoroom_40: -6701612465148677682
+      City-Street-Game-Background-Tiles4-Photoroom_41: -8672260226032044743
+      City-Street-Game-Background-Tiles4-Photoroom_42: 7598475631738268868
+      City-Street-Game-Background-Tiles4-Photoroom_43: 509657868666143600
+      City-Street-Game-Background-Tiles4-Photoroom_44: 8895842439539780043
+      City-Street-Game-Background-Tiles4-Photoroom_45: -6815363471160004883
+      City-Street-Game-Background-Tiles4-Photoroom_46: -7718572548676095108
+      City-Street-Game-Background-Tiles4-Photoroom_47: -1109247479787176644
+      City-Street-Game-Background-Tiles4-Photoroom_48: -1009937501604571200
+      City-Street-Game-Background-Tiles4-Photoroom_49: -6999189424191315486
+      City-Street-Game-Background-Tiles4-Photoroom_5: 3270143364392756785
+      City-Street-Game-Background-Tiles4-Photoroom_50: -8086280378119838998
+      City-Street-Game-Background-Tiles4-Photoroom_51: -6404780911929555397
+      City-Street-Game-Background-Tiles4-Photoroom_52: -8231517322944119464
+      City-Street-Game-Background-Tiles4-Photoroom_53: -6654771942988968995
+      City-Street-Game-Background-Tiles4-Photoroom_54: 9053629515918082890
+      City-Street-Game-Background-Tiles4-Photoroom_55: 5545288086222224112
+      City-Street-Game-Background-Tiles4-Photoroom_56: -2081189021420345259
+      City-Street-Game-Background-Tiles4-Photoroom_57: 8958246980559518115
+      City-Street-Game-Background-Tiles4-Photoroom_58: 8194821758577573566
+      City-Street-Game-Background-Tiles4-Photoroom_59: -904317647977971256
+      City-Street-Game-Background-Tiles4-Photoroom_6: -5782079891694077689
+      City-Street-Game-Background-Tiles4-Photoroom_60: 4137704900033266393
+      City-Street-Game-Background-Tiles4-Photoroom_61: -3670080631031691583
+      City-Street-Game-Background-Tiles4-Photoroom_62: -6111479263657367160
+      City-Street-Game-Background-Tiles4-Photoroom_63: 6975883946732251482
+      City-Street-Game-Background-Tiles4-Photoroom_64: -4376717722474928695
+      City-Street-Game-Background-Tiles4-Photoroom_65: 6996849671764084027
+      City-Street-Game-Background-Tiles4-Photoroom_66: -8605718458772594635
+      City-Street-Game-Background-Tiles4-Photoroom_67: 2220340676670988717
+      City-Street-Game-Background-Tiles4-Photoroom_68: -6840886008365851816
+      City-Street-Game-Background-Tiles4-Photoroom_69: 6436597929308452086
+      City-Street-Game-Background-Tiles4-Photoroom_7: -8052260236914517200
+      City-Street-Game-Background-Tiles4-Photoroom_70: 7767245584379237414
+      City-Street-Game-Background-Tiles4-Photoroom_71: 8892801227445562344
+      City-Street-Game-Background-Tiles4-Photoroom_72: -2603679862403440193
+      City-Street-Game-Background-Tiles4-Photoroom_73: -4757413592718021662
+      City-Street-Game-Background-Tiles4-Photoroom_74: 7185577099935732656
+      City-Street-Game-Background-Tiles4-Photoroom_75: -9145778727651439983
+      City-Street-Game-Background-Tiles4-Photoroom_76: -4300234220112498522
+      City-Street-Game-Background-Tiles4-Photoroom_77: -3723419380544690623
+      City-Street-Game-Background-Tiles4-Photoroom_78: 5368965061823619310
+      City-Street-Game-Background-Tiles4-Photoroom_79: -5325488621749127089
+      City-Street-Game-Background-Tiles4-Photoroom_8: 6498168229723876593
+      City-Street-Game-Background-Tiles4-Photoroom_80: 6300142879387722229
+      City-Street-Game-Background-Tiles4-Photoroom_81: -5632874204021398442
+      City-Street-Game-Background-Tiles4-Photoroom_82: 4235027209404761045
+      City-Street-Game-Background-Tiles4-Photoroom_83: -7983318060009652835
+      City-Street-Game-Background-Tiles4-Photoroom_84: -5620205858756654745
+      City-Street-Game-Background-Tiles4-Photoroom_85: 8054084269696682717
+      City-Street-Game-Background-Tiles4-Photoroom_86: -8383986052292791053
+      City-Street-Game-Background-Tiles4-Photoroom_87: 2088769195845304507
+      City-Street-Game-Background-Tiles4-Photoroom_88: -8406315813294173046
+      City-Street-Game-Background-Tiles4-Photoroom_89: 6967755007713809268
+      City-Street-Game-Background-Tiles4-Photoroom_9: -6654456880730355190
+      City-Street-Game-Background-Tiles4-Photoroom_90: 6542177879621144812
+      City-Street-Game-Background-Tiles4-Photoroom_91: -4215442172109149854
+      City-Street-Game-Background-Tiles4-Photoroom_92: 5397938557293231327
+      City-Street-Game-Background-Tiles4-Photoroom_93: -4117573026055484448
+      City-Street-Game-Background-Tiles4-Photoroom_94: 4788049453691160159
+      City-Street-Game-Background-Tiles4-Photoroom_95: -7376364589798314162
+      City-Street-Game-Background-Tiles4-Photoroom_96: 6795088288486802245
+      City-Street-Game-Background-Tiles4-Photoroom_97: -4576680778190936080
+      City-Street-Game-Background-Tiles4-Photoroom_98: 585188009177644246
+      City-Street-Game-Background-Tiles4-Photoroom_99: 4750566695783707573
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 77ddbc9b83a334b4db485fb6e90c128f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7099131472672745527
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_0
+  - first:
+      213: -6679778747146682342
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_1
+  - first:
+      213: 7413282305326879770
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_2
+  - first:
+      213: -4507735565006507300
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_3
+  - first:
+      213: -4154532775331646282
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_4
+  - first:
+      213: 42356303902607236
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_5
+  - first:
+      213: -2651711364560764261
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_6
+  - first:
+      213: 7009192810258092894
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_7
+  - first:
+      213: -8734491385516518394
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_8
+  - first:
+      213: 5794883063135350246
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_9
+  - first:
+      213: -2462954861343741002
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_10
+  - first:
+      213: 6740646545448003429
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_11
+  - first:
+      213: 428533231830824024
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_12
+  - first:
+      213: -674824971702299128
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_13
+  - first:
+      213: -7921397184032176381
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_14
+  - first:
+      213: -6000360768113372541
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_15
+  - first:
+      213: -5112903051008680137
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_16
+  - first:
+      213: -460058899649475597
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_17
+  - first:
+      213: 5461322029544668331
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_18
+  - first:
+      213: 3391519488297240783
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_19
+  - first:
+      213: 8176327492028654566
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_20
+  - first:
+      213: 6183431822166771317
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_21
+  - first:
+      213: 3288815364194632752
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_22
+  - first:
+      213: 2007320097240344585
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_23
+  - first:
+      213: 3205406202546211024
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_24
+  - first:
+      213: -1045357593034165872
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_25
+  - first:
+      213: -7254170494692941639
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_26
+  - first:
+      213: 4143889536371295688
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_27
+  - first:
+      213: 7374727485373288377
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_28
+  - first:
+      213: -8560554826818802202
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_29
+  - first:
+      213: 4332223791504233895
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_30
+  - first:
+      213: 4414324838208518725
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_31
+  - first:
+      213: -1666597461862689665
+    second: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 357
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4929d901b0d8e84428e58ca19ac0d04a
+      internalID: -109988508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 357
+        width: 87
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e28b130d061164ba7b8f8cc36edbad
+      internalID: -1684893538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 357
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cf0d95560109c44b079f3bd7b4a773
+      internalID: 1814897526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 357
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d910dc27ca96cd94c88273fba0aa416f
+      internalID: 1470335923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 357
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb599a177a20d24b8806248cb9c59c1
+      internalID: -1509199591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 357
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2876318eb0934d4488933dcd9c769789
+      internalID: -586931176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 357
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5212292336dd2a4d945b0f1df80c8c9
+      internalID: -54737267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 357
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368792122be013547a350dda3f100b59
+      internalID: -1784494227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 357
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f53202eede1854599e7c73719c1c81
+      internalID: -57204319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 342
+        width: 141
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad51bf4a5964c14aa84b7e388b44a74
+      internalID: -1865913884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 205
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65297eda4bbf1bd4d98664e89eeba18a
+      internalID: -540627942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 205
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b061f96f53c544d9f7d8208104f6b4
+      internalID: -1925448398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 205
+        width: 82
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4103c36a11c6e64eb5b1883f7c93601
+      internalID: 1305914154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 205
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47494b799b36e8498627840d4b58000
+      internalID: 1539638693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 205
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6c99ecf018b1243ad980ba3813c82f
+      internalID: 120278887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 205
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3655a367ff1d7b14fa554655f3dfd844
+      internalID: 586410740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 205
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf641efa43d42249be2d8eac6091f2d
+      internalID: -194307527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 205
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e92329ac7f271640ab591e5698e3947
+      internalID: -943868638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 205
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9142c35e6fc15524abc204d46caaa9cd
+      internalID: -192576625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 205
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf6f2601758bb9468b3793d0313d791
+      internalID: 195693785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 205
+        width: 141
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fb84ee87cd4a44e88f8eda97d68f58
+      internalID: 808998081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 55
+        width: 67
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce8b601d0fab43418c7d6779fcfe05f
+      internalID: -1292426372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 55
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050e4559eadcd6349860f0879ed056d6
+      internalID: 441811978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 55
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df450c054718f164ca9e8965c4236025
+      internalID: -1721006611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 55
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dacddcc0cb10947ba6af29c5587936
+      internalID: -1135239343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 56
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce5dfd266885e54eae5425e1befe26c
+      internalID: 1277319922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 56
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4453bcce23826f448aff93b2892d3736
+      internalID: -1072595594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 56
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274237f51b8467d46b9675523d073597
+      internalID: 1907364902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 56
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b22baedead038741bcf456df4869cab
+      internalID: -1391660980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 56
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dac2e92d465a1944a9b4e30c1aad41d
+      internalID: -264169075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 56
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef30f0f142b20d54585f39c532282f0e
+      internalID: -580650128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 56
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f745b88a1d434c44826a979f1584ea3
+      internalID: 2044799899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 45
+        width: 145
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15bed45a860ad648afe76a14f26b274
+      internalID: 1651116624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0f5ba5dbd3c379644b6bde5e73a240f6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_0: -109988508
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_1: -1684893538
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_10: -540627942
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_11: -1925448398
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_12: 1305914154
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_13: 1539638693
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_14: 120278887
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_15: 586410740
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_16: -194307527
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_17: -943868638
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_18: -192576625
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_19: 195693785
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_2: 1814897526
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_20: 808998081
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_21: -1292426372
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_22: 441811978
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_23: -1721006611
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_24: -1135239343
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_25: 1277319922
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_26: -1072595594
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_27: 1907364902
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_28: -1391660980
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_29: -264169075
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_3: 1470335923
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_30: -580650128
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_31: 2044799899
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_32: 1651116624
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_4: -1509199591
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_5: -586931176
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_6: -54737267
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_7: -1784494227
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_8: -57204319
+      Free-Tree-Pixel-Art-Asset-Pack4-768x512-Photoroom_9: -1865913884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

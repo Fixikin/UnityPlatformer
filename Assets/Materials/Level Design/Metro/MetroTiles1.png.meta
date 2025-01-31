@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 82042fcdff253a4498b5b2f03cf667a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5171438390902944154
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_0
+  - first:
+      213: -3165232012942226457
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_1
+  - first:
+      213: 4794425127126374630
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_2
+  - first:
+      213: -240157113283230809
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_3
+  - first:
+      213: -383089857457319570
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_4
+  - first:
+      213: 6332760535609202349
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_5
+  - first:
+      213: -4433204879207549982
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_6
+  - first:
+      213: 5513329407213660568
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_7
+  - first:
+      213: -6953107776621186248
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_8
+  - first:
+      213: 215780801507694191
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_9
+  - first:
+      213: 3200518680545786790
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_10
+  - first:
+      213: 8821264065417761058
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_11
+  - first:
+      213: -1474159347653752599
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_12
+  - first:
+      213: -5885573429368472475
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_13
+  - first:
+      213: 8713036717348790051
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_14
+  - first:
+      213: 430649260091705370
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_15
+  - first:
+      213: 4412328146238633577
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_16
+  - first:
+      213: -894820702611673126
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_17
+  - first:
+      213: -1888284364288536894
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_18
+  - first:
+      213: 304479830475980259
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_19
+  - first:
+      213: -2836195374950904632
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_20
+  - first:
+      213: -6887574518941151530
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_21
+  - first:
+      213: -2207800151799375751
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_22
+  - first:
+      213: 4033102047847801830
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_23
+  - first:
+      213: 2890760904408645844
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_24
+  - first:
+      213: 8221253493130887884
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_25
+  - first:
+      213: 8180988134512604557
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_26
+  - first:
+      213: -1129578488420934639
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_27
+  - first:
+      213: -5150508183044200006
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_28
+  - first:
+      213: 7407106533413751530
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_29
+  - first:
+      213: 8570165256879941322
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_30
+  - first:
+      213: 650565952304625729
+    second: Prison-Tileset-Pixel-Art-Assets3-Photoroom_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MetroTiles1_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 669
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d035329d65f8dee4ca4c12f5f7dd21d9
+      internalID: -1950186964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 669
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50f8820b06371b449747f6e845461d0
+      internalID: 1081857716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 428
+        width: 118
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2e9e347ae19894d973158527c4ffd3
+      internalID: 62042463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 428
+        width: 117
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2f5e3cb9e014143a56872fd6c440c6
+      internalID: -923707666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 727
+        width: 117
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18735317f8d296949b38c8ab8a49159f
+      internalID: -66574609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_5
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 727
+        width: 118
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6be67231cd2d9a4da56afe83e884b65
+      internalID: 2045082248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_6
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 727
+        width: 116
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1630883823e130a44bb2051ff39898db
+      internalID: -328553980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_7
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 727
+        width: 118
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e4c9a8069525048b42d49276affe00
+      internalID: 1743199531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 428
+        width: 118
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eea9a5d712a68745b9af0392e1e869c
+      internalID: -697812329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 549
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105b460903290a44081dc9b69a002f45
+      internalID: -1824787988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 307
+        width: 117
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdb219bf11e0414996f4055123b0a41
+      internalID: -385381125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 305
+        width: 118
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbc734888932724eb1159ab69dd22eb
+      internalID: 563690688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_12
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 428
+        width: 116
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7add851d2d2c2634b97614c9a34305dd
+      internalID: -1466169204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_13
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 307
+        width: 118
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06445c2dd2b3c3f4d92fc84e9aa67843
+      internalID: -1278588083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 428
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9951bfe163dc249b9edc5d80eaf112
+      internalID: -1262591029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 307
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab601d82640b78499d6ae7a19b5d111
+      internalID: 1225895214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 307
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86e9e1b29a302b499855cb87c45358f
+      internalID: 746263795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 307
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43aad8cdee0de9140a695026b26d315a
+      internalID: 222617553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_18
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 307
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d685d42f2fdf54790a65b0cbf55244
+      internalID: -1937460132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 186
+        width: 116
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07651fad08bbff84c891ee9ba2ca54b3
+      internalID: -791977498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 65
+        width: 118
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec03b86c5c7852943be8864f0d63c78a
+      internalID: 1099569156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 65
+        width: 116
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dd970652a218d4788faf2000ada368
+      internalID: 1412939166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_22
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 186
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa45efa6e61c43943a339bd1fd3679f8
+      internalID: -1497507924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_23
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 137
+        width: 117
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e5806147397d944b2e240fbef0ff7f
+      internalID: 1726564628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_24
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 186
+        width: 113
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f5af8cf8690074eaa3cd0f7103f924
+      internalID: -1792024518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_25
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 186
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c54f8b08633c8438e68aa7c5bd7717
+      internalID: 2117854615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_26
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 186
+        width: 110
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f71d35898d60840bb05be641dbb713
+      internalID: -1655151323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 136
+        width: 118
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cc7f17528d4f449bba3812df5709d5
+      internalID: -1689249490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_28
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 66
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5a5b49fc1a5764ab7ec3c5bf60b54e
+      internalID: 1663031667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_29
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 66
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1087941561d862546910273b35341609
+      internalID: -1637159962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_30
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 66
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5233336d317c955429b8b7a6ea8319c2
+      internalID: 163291350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetroTiles1_31
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 66
+        width: 110
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a7fe5ca465bbb499ecfdfbe0b385d7
+      internalID: 1715281453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5fd1265b111ef049bd17c9ffce7cd36
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MetroTiles1_0: -1950186964
+      MetroTiles1_1: 1081857716
+      MetroTiles1_10: -385381125
+      MetroTiles1_11: 563690688
+      MetroTiles1_12: -1466169204
+      MetroTiles1_13: -1278588083
+      MetroTiles1_14: -1262591029
+      MetroTiles1_15: 1225895214
+      MetroTiles1_16: 746263795
+      MetroTiles1_17: 222617553
+      MetroTiles1_18: -1937460132
+      MetroTiles1_19: -791977498
+      MetroTiles1_2: 62042463
+      MetroTiles1_20: 1099569156
+      MetroTiles1_21: 1412939166
+      MetroTiles1_22: -1497507924
+      MetroTiles1_23: 1726564628
+      MetroTiles1_24: -1792024518
+      MetroTiles1_25: 2117854615
+      MetroTiles1_26: -1655151323
+      MetroTiles1_27: -1689249490
+      MetroTiles1_28: 1663031667
+      MetroTiles1_29: -1637159962
+      MetroTiles1_3: -923707666
+      MetroTiles1_30: 163291350
+      MetroTiles1_31: 1715281453
+      MetroTiles1_4: -66574609
+      MetroTiles1_5: 2045082248
+      MetroTiles1_6: -328553980
+      MetroTiles1_7: 1743199531
+      MetroTiles1_8: -697812329
+      MetroTiles1_9: -1824787988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2341 @@
+fileFormatVersion: 2
+guid: dc6e7a63e6d09a843b1bd997ad3ba425
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5832054559436090582
+    second: Free-Industrial-Zone-Tileset-Pixel-Art2_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1039
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a235d1a1741601fa0800000000000000
+      internalID: -5832054559436090582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1039
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41fc0885f0d6dd408481c448e81efbb
+      internalID: 2100491426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1039
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3bc2d77fb6f164f849841bd46dd8d1
+      internalID: 42805432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_3
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1039
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee362b2669b7074481236c7613c3cc9
+      internalID: 2138180668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1039
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da7462745486874dbb2071bcc0d60ba
+      internalID: -9468423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_5
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1039
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedf069c2c2b37849a98cfe73b5321ff
+      internalID: -1305162822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_6
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1039
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d78b82d3d606814fa6efb0d76aedd36
+      internalID: 1636109671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_7
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1039
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2fe4a1ad5462647b5529214bd5e2cc
+      internalID: 1155440166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_8
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1039
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b125075606a30f47ab2cf913d108630
+      internalID: 1287259582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_9
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1039
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614e6150c9094804eb688e05478176f1
+      internalID: 1221668000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_10
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1039
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72cf75fa57865642a9ac41e78de4378
+      internalID: 752186272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_11
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1039
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26162c03728327b4896dde9941d28d77
+      internalID: -318277063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 895
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10add8368f0f084299516c88f38f2b0
+      internalID: 680972767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 895
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ee89006214dfe43bc6d503d6872684
+      internalID: -700611531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 895
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9417fbd10b5508e42a992f2eec77b2b5
+      internalID: 748393417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_15
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 895
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e230cb1a75d70c4e889be1ad1181922
+      internalID: 1012192305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_16
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 895
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088042d5e428ece43b1b05af74fea959
+      internalID: -1383916346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_17
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 895
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccee17a4f3fa2b8478018c23618c5f04
+      internalID: 476492310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_18
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 895
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6214c6b191bcb174a9fea42232d403b9
+      internalID: 1275251198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_19
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 895
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f501182059218614c8b3f95c2db20270
+      internalID: -1627770040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_20
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 895
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152d9f90404a7154d9cd8d6086fd41b5
+      internalID: -1914459760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_21
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 895
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754d266b116194c4fb973b84f410b61d
+      internalID: -1537641626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_22
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 895
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e6454a5e42b764c8d412147cc68858
+      internalID: 1964098076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_23
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 895
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa0cf7ced44cdc41b9e5e799d02a154
+      internalID: -510396310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 751
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f999b8f6ea6c1964bb03e847ae79a8ec
+      internalID: 316217424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 751
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6920adad09ebb14448f1b6da6aa5921d
+      internalID: -1534547668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 751
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f77b731a444ef4cb4ef9d6a990936b
+      internalID: 998114883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_27
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 751
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008cdc67488f29a439139505ec0b5def
+      internalID: 697300405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_28
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 751
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a964410ca8af51644a4f4dbdf7ec0e0c
+      internalID: 176963923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_29
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 751
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9d834dfe38b9e438a0c92bb5a31be2
+      internalID: -739492908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_30
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 751
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e471f96cb415724a9e80320c5a3ef78
+      internalID: 999224829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_31
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 751
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3153744af17c840883b964a83e134b
+      internalID: 880929339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_32
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 751
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee1d8386f253474e9990b3aeb223574
+      internalID: -953628619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_33
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 751
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8410922cb03d4fb4992e60839b048938
+      internalID: -1627886977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_34
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 751
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bead95a4d20194b99854ceb8330714
+      internalID: 721104583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_35
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 751
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f869a7dca8e2b4babb67f9e9b3bc1f
+      internalID: 1327088074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 607
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9a633a3c62c7b42927ede005cae4e6
+      internalID: -1739182575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 607
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba66eaae7bd73247986d5d034cd870b
+      internalID: -783287302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_38
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 607
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b167f58175e7fb7489f6328f30376e8d
+      internalID: -290425165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_39
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 607
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba2ca45465430746a428492d0e23b06
+      internalID: 874415485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_40
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 607
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d98e9e3d2cebc41ad443b2b6e34d4f
+      internalID: -2048508540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_41
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 607
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9615f22b4a3c24890d35420e98bf28
+      internalID: 1369327176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_42
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 607
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a207469986cf184b9f50fb8ee8edc10
+      internalID: -350105394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_43
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 607
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be441af857d1644d9fb076001db7a6b
+      internalID: 2002321257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_44
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 607
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5322aef8de763f4da02d96f73939a75
+      internalID: -1717241960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_45
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 607
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1ba933ac162f045a197c766186a1bf
+      internalID: -2023986794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_46
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 607
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9fc8ae659245e499bd3701d4620592
+      internalID: -1272631463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_47
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 607
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40a257b1a320b648936598cc04cc51c
+      internalID: -579427237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_48
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 463
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bdfcb027b747d4a9e05ae20bd08ee0
+      internalID: 1505763047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_49
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 463
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159b2a2437af6fe418b20b445d2f32fe
+      internalID: 407369470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_50
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 463
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e7819edb08d6f43889048f9383d100
+      internalID: 236168288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_51
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 463
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c711f1bd970569341b7ccfd8b2cf6d42
+      internalID: 1460596395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_52
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 463
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140df63f648739445bb6f4b286d24f92
+      internalID: -1630520166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_53
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 463
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a9df9c8169e7647a5c49c0eef8f84e
+      internalID: -1769253687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_54
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 463
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac3a53dc17ef55478e4ceed7db81eb9
+      internalID: -1621702100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_55
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 463
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800fe632cd12e1540a784526801c5ab5
+      internalID: 163395260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_56
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 463
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765f05e1c36a1c840be8416433bc943e
+      internalID: 1700672092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_57
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 463
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be97348980d5ccf4183ad53e755c0040
+      internalID: -665414491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_58
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 463
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829477a2dd3071148a2f389dd47c2210
+      internalID: -2026820248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_59
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 463
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2366ddfb80d4f49893e84457afe20e
+      internalID: -2136610086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_60
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 319
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9711d7653ad7cf8428276351fe3dbd11
+      internalID: -972953677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_61
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 319
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ebed89400bef540b538e3cf410feca
+      internalID: 905344069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_62
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 319
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac566738adcef54f934eaa41dc5a440
+      internalID: -881061798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_63
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 319
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfa3f10eb67caf4aaade31367be4d39
+      internalID: -210468116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_64
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 319
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edef862211714004cb368b19a12a89bb
+      internalID: -1649853199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_65
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 319
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccb03ad8929a8947842c46d8c09be27
+      internalID: 510689905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_66
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 319
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9ed0be0bb03c647b23d720b85d5708
+      internalID: -513961389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_67
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 319
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3f164eba7fab74fb45104e7fb1d48d
+      internalID: -627723473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_68
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 319
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0519610ce4d5d648aadbfaf4b35c804
+      internalID: 600453153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_69
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 319
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f0469616e016c46b83f3ff14e637d3
+      internalID: 333023799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_70
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 319
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb63d47535d59b141abd1f893f01802a
+      internalID: 2097900515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_71
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 319
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f772a16c05bc764ba6eb1a0f225a93f
+      internalID: 1106845343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 175
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8538486652c67514485f95f20dd5e65a
+      internalID: 390685385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_73
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 175
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa19afa61b49f34c995922d6777a4ec
+      internalID: -367614627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_74
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 175
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb415fbe486a824cac188f8f7f2d76d
+      internalID: -120734223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_75
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 175
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000a899f5c07d554999540e4a4135d0b
+      internalID: 99249266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_76
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 175
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b034ef5ff4d57a469353cc5719cf191
+      internalID: 1767340870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_77
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 175
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361e6c1232dd20f4286276c31d89c832
+      internalID: -1541647857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_78
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 175
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23d5a2f1ac13e243acbe931d6e694fa
+      internalID: 328422015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_79
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 175
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d5efd0d202b9f4caeb833d4192a4d3
+      internalID: -1744366619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_80
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 175
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b6321714b55c44183dcc87458796dd
+      internalID: -442779520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_81
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 175
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3485b5b81363a9f4ba370b4d361fcce6
+      internalID: 319954194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_82
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 175
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eecd170ad850a443bbb81248ab43d95
+      internalID: -87323794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_83
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 175
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e287d3ba18ece3a4882c97e1996cea76
+      internalID: 1836969630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_84
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 31
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b173f8f2cbf17864085c3202cfb22fac
+      internalID: 943413287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_85
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 31
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd1231dfcd6d77459625f42e5cdac8b
+      internalID: 1374065026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_86
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 31
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525248bc2b888474f8b3d0579e16c186
+      internalID: 1459355313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_87
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 31
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416df8f1d240ca94faf264a3d5a8bc74
+      internalID: -1762843985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_88
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 31
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b41293111225ee4988003616484cfd2
+      internalID: -910463917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_89
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 31
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b437af86ab17c4e880d88f1f5094c8
+      internalID: -1611771055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_90
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 31
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb11d63592048c4f955cd84386e439e
+      internalID: -593189072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_91
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 31
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd95cea3e219b84abee2e2807a78983
+      internalID: 699127882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_92
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 31
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020661d0f35abbe41b14286f7070a834
+      internalID: -1741859651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_93
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 31
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7ad80ac48c883499f4e470a0c5a216
+      internalID: 784862980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_94
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 31
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193d9bf9b08d8d942ba7a8f81c3a4a9b
+      internalID: -2037192515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Industrial-Zone-Tileset-Pixel-Art2_95
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 31
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ac97ee2bd2fc14a8120ce31a9fd9df
+      internalID: 231620652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: aa8468f64ef94be46b8d2b09ded602c5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Free-Industrial-Zone-Tileset-Pixel-Art2_0: -5832054559436090582
+      Free-Industrial-Zone-Tileset-Pixel-Art2_1: 2100491426
+      Free-Industrial-Zone-Tileset-Pixel-Art2_10: 752186272
+      Free-Industrial-Zone-Tileset-Pixel-Art2_11: -318277063
+      Free-Industrial-Zone-Tileset-Pixel-Art2_12: 680972767
+      Free-Industrial-Zone-Tileset-Pixel-Art2_13: -700611531
+      Free-Industrial-Zone-Tileset-Pixel-Art2_14: 748393417
+      Free-Industrial-Zone-Tileset-Pixel-Art2_15: 1012192305
+      Free-Industrial-Zone-Tileset-Pixel-Art2_16: -1383916346
+      Free-Industrial-Zone-Tileset-Pixel-Art2_17: 476492310
+      Free-Industrial-Zone-Tileset-Pixel-Art2_18: 1275251198
+      Free-Industrial-Zone-Tileset-Pixel-Art2_19: -1627770040
+      Free-Industrial-Zone-Tileset-Pixel-Art2_2: 42805432
+      Free-Industrial-Zone-Tileset-Pixel-Art2_20: -1914459760
+      Free-Industrial-Zone-Tileset-Pixel-Art2_21: -1537641626
+      Free-Industrial-Zone-Tileset-Pixel-Art2_22: 1964098076
+      Free-Industrial-Zone-Tileset-Pixel-Art2_23: -510396310
+      Free-Industrial-Zone-Tileset-Pixel-Art2_24: 316217424
+      Free-Industrial-Zone-Tileset-Pixel-Art2_25: -1534547668
+      Free-Industrial-Zone-Tileset-Pixel-Art2_26: 998114883
+      Free-Industrial-Zone-Tileset-Pixel-Art2_27: 697300405
+      Free-Industrial-Zone-Tileset-Pixel-Art2_28: 176963923
+      Free-Industrial-Zone-Tileset-Pixel-Art2_29: -739492908
+      Free-Industrial-Zone-Tileset-Pixel-Art2_3: 2138180668
+      Free-Industrial-Zone-Tileset-Pixel-Art2_30: 999224829
+      Free-Industrial-Zone-Tileset-Pixel-Art2_31: 880929339
+      Free-Industrial-Zone-Tileset-Pixel-Art2_32: -953628619
+      Free-Industrial-Zone-Tileset-Pixel-Art2_33: -1627886977
+      Free-Industrial-Zone-Tileset-Pixel-Art2_34: 721104583
+      Free-Industrial-Zone-Tileset-Pixel-Art2_35: 1327088074
+      Free-Industrial-Zone-Tileset-Pixel-Art2_36: -1739182575
+      Free-Industrial-Zone-Tileset-Pixel-Art2_37: -783287302
+      Free-Industrial-Zone-Tileset-Pixel-Art2_38: -290425165
+      Free-Industrial-Zone-Tileset-Pixel-Art2_39: 874415485
+      Free-Industrial-Zone-Tileset-Pixel-Art2_4: -9468423
+      Free-Industrial-Zone-Tileset-Pixel-Art2_40: -2048508540
+      Free-Industrial-Zone-Tileset-Pixel-Art2_41: 1369327176
+      Free-Industrial-Zone-Tileset-Pixel-Art2_42: -350105394
+      Free-Industrial-Zone-Tileset-Pixel-Art2_43: 2002321257
+      Free-Industrial-Zone-Tileset-Pixel-Art2_44: -1717241960
+      Free-Industrial-Zone-Tileset-Pixel-Art2_45: -2023986794
+      Free-Industrial-Zone-Tileset-Pixel-Art2_46: -1272631463
+      Free-Industrial-Zone-Tileset-Pixel-Art2_47: -579427237
+      Free-Industrial-Zone-Tileset-Pixel-Art2_48: 1505763047
+      Free-Industrial-Zone-Tileset-Pixel-Art2_49: 407369470
+      Free-Industrial-Zone-Tileset-Pixel-Art2_5: -1305162822
+      Free-Industrial-Zone-Tileset-Pixel-Art2_50: 236168288
+      Free-Industrial-Zone-Tileset-Pixel-Art2_51: 1460596395
+      Free-Industrial-Zone-Tileset-Pixel-Art2_52: -1630520166
+      Free-Industrial-Zone-Tileset-Pixel-Art2_53: -1769253687
+      Free-Industrial-Zone-Tileset-Pixel-Art2_54: -1621702100
+      Free-Industrial-Zone-Tileset-Pixel-Art2_55: 163395260
+      Free-Industrial-Zone-Tileset-Pixel-Art2_56: 1700672092
+      Free-Industrial-Zone-Tileset-Pixel-Art2_57: -665414491
+      Free-Industrial-Zone-Tileset-Pixel-Art2_58: -2026820248
+      Free-Industrial-Zone-Tileset-Pixel-Art2_59: -2136610086
+      Free-Industrial-Zone-Tileset-Pixel-Art2_6: 1636109671
+      Free-Industrial-Zone-Tileset-Pixel-Art2_60: -972953677
+      Free-Industrial-Zone-Tileset-Pixel-Art2_61: 905344069
+      Free-Industrial-Zone-Tileset-Pixel-Art2_62: -881061798
+      Free-Industrial-Zone-Tileset-Pixel-Art2_63: -210468116
+      Free-Industrial-Zone-Tileset-Pixel-Art2_64: -1649853199
+      Free-Industrial-Zone-Tileset-Pixel-Art2_65: 510689905
+      Free-Industrial-Zone-Tileset-Pixel-Art2_66: -513961389
+      Free-Industrial-Zone-Tileset-Pixel-Art2_67: -627723473
+      Free-Industrial-Zone-Tileset-Pixel-Art2_68: 600453153
+      Free-Industrial-Zone-Tileset-Pixel-Art2_69: 333023799
+      Free-Industrial-Zone-Tileset-Pixel-Art2_7: 1155440166
+      Free-Industrial-Zone-Tileset-Pixel-Art2_70: 2097900515
+      Free-Industrial-Zone-Tileset-Pixel-Art2_71: 1106845343
+      Free-Industrial-Zone-Tileset-Pixel-Art2_72: 390685385
+      Free-Industrial-Zone-Tileset-Pixel-Art2_73: -367614627
+      Free-Industrial-Zone-Tileset-Pixel-Art2_74: -120734223
+      Free-Industrial-Zone-Tileset-Pixel-Art2_75: 99249266
+      Free-Industrial-Zone-Tileset-Pixel-Art2_76: 1767340870
+      Free-Industrial-Zone-Tileset-Pixel-Art2_77: -1541647857
+      Free-Industrial-Zone-Tileset-Pixel-Art2_78: 328422015
+      Free-Industrial-Zone-Tileset-Pixel-Art2_79: -1744366619
+      Free-Industrial-Zone-Tileset-Pixel-Art2_8: 1287259582
+      Free-Industrial-Zone-Tileset-Pixel-Art2_80: -442779520
+      Free-Industrial-Zone-Tileset-Pixel-Art2_81: 319954194
+      Free-Industrial-Zone-Tileset-Pixel-Art2_82: -87323794
+      Free-Industrial-Zone-Tileset-Pixel-Art2_83: 1836969630
+      Free-Industrial-Zone-Tileset-Pixel-Art2_84: 943413287
+      Free-Industrial-Zone-Tileset-Pixel-Art2_85: 1374065026
+      Free-Industrial-Zone-Tileset-Pixel-Art2_86: 1459355313
+      Free-Industrial-Zone-Tileset-Pixel-Art2_87: -1762843985
+      Free-Industrial-Zone-Tileset-Pixel-Art2_88: -910463917
+      Free-Industrial-Zone-Tileset-Pixel-Art2_89: -1611771055
+      Free-Industrial-Zone-Tileset-Pixel-Art2_9: 1221668000
+      Free-Industrial-Zone-Tileset-Pixel-Art2_90: -593189072
+      Free-Industrial-Zone-Tileset-Pixel-Art2_91: 699127882
+      Free-Industrial-Zone-Tileset-Pixel-Art2_92: -1741859651
+      Free-Industrial-Zone-Tileset-Pixel-Art2_93: 784862980
+      Free-Industrial-Zone-Tileset-Pixel-Art2_94: -2037192515
+      Free-Industrial-Zone-Tileset-Pixel-Art2_95: 231620652
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

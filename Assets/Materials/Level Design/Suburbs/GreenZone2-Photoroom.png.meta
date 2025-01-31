@@ -1,0 +1,2350 @@
+fileFormatVersion: 2
+guid: 09d4f2019ce5901448ac848f7fd53f19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3754080262952640502
+    second: GreenZone2-Photoroom_0
+  - first:
+      213: -450677283522904559
+    second: GreenZone2-Photoroom_1
+  - first:
+      213: 4326499771765854076
+    second: GreenZone2-Photoroom_2
+  - first:
+      213: -5662243247094638584
+    second: GreenZone2-Photoroom_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 444
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189f84c83891bf348a5d373604984fbb
+      internalID: -559706298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 444
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9c8f6ae8dc88540844a2ab37568880
+      internalID: 886694515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 444
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5bb12376d94e34ab39a2a7a6c6447d
+      internalID: 805003825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 444
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a3d7947ab1ecb458530af498b9a0d2
+      internalID: -1922868292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 444
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9394f1f1ad2c62b41bd9e708af602bff
+      internalID: -1114537632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 444
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc0dc53631b4f34b92c2506fbfab51c
+      internalID: 872923882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 444
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3927474203fb64bb4bbf0030e659df
+      internalID: 905670185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 444
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5db3fcbc69a8c41aa570ce588c40dc
+      internalID: 169269224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 444
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed81088b4de02f419852f6efedf68e3
+      internalID: 421239761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 444
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a97be5ac7c70fb4294b8535678ec604
+      internalID: -820856907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 444
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39373303556e2348b48c7dbc31908de
+      internalID: 265021576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 444
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9624e5e48bd808c4eada646fd95b4daa
+      internalID: -1846877082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 382
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4366e1dc056c248489b9803b850c8f2e
+      internalID: 924744596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 382
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea727e3c60cd704eb6be425418dd55d
+      internalID: -235864953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 382
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1e90b8332835b4bbb0fd4dede32e18
+      internalID: -742179520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 382
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7fee13ec0c0da4fad86979ae90ef0a
+      internalID: -1859271577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 382
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4debe271193d4ec4fa8463ac3d6a1a46
+      internalID: -1605590603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 382
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a602a06376bc84cbf9200d95aa4e47
+      internalID: -453610063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 382
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0757192bb17d8b49b2d4c3d9b925595
+      internalID: 1287058624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 382
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417b3fd92f202614e8ec499ea2ba52d3
+      internalID: 1904715802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 382
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0fe2e641c4a0746872348da1e5a3ad
+      internalID: -1215073410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 382
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af89a1a153cf2c4b95b88c6c0ff7b31
+      internalID: 1874216809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 382
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29495c7274bde0c469c6afaf80ac4158
+      internalID: -413477029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 382
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6651a61d859c55e44acad36c37426ef0
+      internalID: -1384474655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 320
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eacdc4fbbe2844cbdc55ef180a305f
+      internalID: 744458335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 320
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc1d3346e88714499f8736a49143324
+      internalID: -1887669415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 320
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01160c6e5ec18114daa14227dd44c05e
+      internalID: 1954209329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 320
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f480db03fdc3b374d9ffb72638b985ac
+      internalID: 897278334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 320
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e25912e4626b7468817c96f92a4d4c
+      internalID: -812743597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 320
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab5c1db34d237f4d81f90f1184e3a9a
+      internalID: 695295548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 320
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3191f4bce2d8e56459e32de74649c3d1
+      internalID: 884556340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 320
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47b7a1fa98dac3478cbc828b174e7d3
+      internalID: -1426160914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 320
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69a33e41a45b024fb8bb828a503f3d2
+      internalID: 2058821487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 320
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c58505c0ea7d74e93381cda1926614
+      internalID: 737361392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 320
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ff317c4265e0c4d801fc479b8b6564
+      internalID: -1250666241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 320
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046a3ab2f6ba433429b19a386f0e3fe5
+      internalID: 432340171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 258
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f651104685067d144b1b92a009689364
+      internalID: -337569377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 258
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51303da61dacf3a4dacc3e0edadf17da
+      internalID: 1071796772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 258
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f801ac44da2f4469705702f65d341e
+      internalID: 1155950756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 258
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8986c7ace992d054c8fbfe711a961dd3
+      internalID: -1679898789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 258
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9470ca1282351ca4a89c14478da1ce7a
+      internalID: -1495455089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 258
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195d109438538124aa603d0787eedd16
+      internalID: 1646125060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 258
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e9cef520efc3848b52f17c48d3a8fe
+      internalID: -483923142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 258
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460d96bd127754549a84b63006552a2b
+      internalID: 1987411160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 258
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a835f400d38c28f4e8b348a86621d3eb
+      internalID: -1247907329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 258
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca205a929d8d65843bed6043a2d3625b
+      internalID: 74736832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 258
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55c7451894dbc5498deb698b368ee9a
+      internalID: 2122741044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 258
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f456c020957c144bb6c6adb1d06998d
+      internalID: -1088550117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 196
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e04af8dcefea44e9f8b240a3602aa0
+      internalID: 2046891287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 196
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff220dd1022f31478b7ac6d452da075
+      internalID: -1991129117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 196
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73132bdaeb3232140b3d645b8de76d21
+      internalID: -642306795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 196
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08a7d27839301440af91757c1f485dd
+      internalID: -579926910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 196
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c855adf280950b4a89b396ba504d50c
+      internalID: -947992560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 196
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93a105d55c42634982f2fd2e1d28ee5
+      internalID: 2142721204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 196
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9af002aa08f1b4691c0668b7905d46
+      internalID: -1227222775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 196
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d95f1a7cd7b5648a0fb1c7cdabcb82
+      internalID: 1726019395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 196
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685c0c7dfd4f54d418e643821766aaeb
+      internalID: 720384861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 196
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8702b8077fd68eb449a276aab73a22b0
+      internalID: -601611472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 196
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e7f9a7cd359cf4d94c1e130198ee88
+      internalID: 572417959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 196
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb0a30d9dc47304bacad675d930225a
+      internalID: 396953303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 134
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8640f1c06bb60404a984312d6d5579ce
+      internalID: 1028730522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 134
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ddab6421f71344f92f4e37dcca85cc
+      internalID: -935087918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 134
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb7d2f96926a0b48a844280aa64a38d
+      internalID: -571892708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 134
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f98725684c05a147a1b6399e01c64fa
+      internalID: -1562817731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 134
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0288ab70aa8dec348a7709d8f9747741
+      internalID: 454277053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 134
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376c272a8e36d054cb40bbb6ea05033c
+      internalID: 1228610669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 134
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1c0f6e9601e7d45b874c65bd625289
+      internalID: 419216119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 134
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3373da659b31a640aae6722bafdc6c8
+      internalID: -186962976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 134
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc3c16e509e51c4eb1e11116b3c34d2
+      internalID: -237061730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 134
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb537369c871174f8eee998651a7754
+      internalID: -2017215500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 134
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511e01170fbeade469f7f03a7fcb39f7
+      internalID: 214153416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 134
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24182f1bc9c774246bb68570438abbe5
+      internalID: 420527724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 72
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6935bd7e19e3bfb41990c40aebde364e
+      internalID: -161430764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 72
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a8214cea97cd042bfa8ea95672ad4c
+      internalID: 156171716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 72
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c3533ba9d9ef94ab08179588229035
+      internalID: 33051975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 72
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bc8f10e67949247bf7b4d3291ee835
+      internalID: -486905471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 72
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e908433bb7859504583ad1a7395c674a
+      internalID: 90170943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 72
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4481f4436572ea40ad1baa4d2a729a8
+      internalID: -1567348988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 72
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3384f1622a89e438b85276f043626c
+      internalID: 939106097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 72
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e319187c21b69b542aa32d99cce7dce3
+      internalID: -959253630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 72
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa87de667018f442873c5a4a0b0864c
+      internalID: -1310152216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 72
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac49f40996453ce42974a1696583701f
+      internalID: -1231497521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 72
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57621f55d673cea4cad5e934d6b753cd
+      internalID: -1909061459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 72
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d420c77457048fc4e8ac46e1ff144352
+      internalID: 562936197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38db637ec0e196a4bb2b8886eb6c5a52
+      internalID: -1590662214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148bc6aa0d10e1649a97ec4cae7d343a
+      internalID: -1206886406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40598804db89fa4097645f2ffd473b8
+      internalID: 869040349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 10
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84c22c85ace89243af79034c2aa4a8d
+      internalID: -275679128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 10
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c06f46c4cdba241b301ec17c9a9516
+      internalID: -430825271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 10
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ace63e75df0f0499a9c3fe1a6fae74
+      internalID: 243423219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 10
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d172fc933182d4a9d5059327d5fbdf
+      internalID: 40687780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 10
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66027dfb5b8a1ee4396a9390de6c8486
+      internalID: 1351844529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 10
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b49c932255cb24f94132e6bfffb544
+      internalID: 1059537315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 10
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9b5695e663fa14a96fabf00e378820
+      internalID: 1604977378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 10
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19d9beb17b5d3049b749b59748b205c
+      internalID: 1380691021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenZone2-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 10
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16345b9a28b97de45862502b187c7498
+      internalID: 868831087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e006873f95a790b4db91783afa7346b8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GreenZone2-Photoroom_0: -559706298
+      GreenZone2-Photoroom_1: 886694515
+      GreenZone2-Photoroom_10: 265021576
+      GreenZone2-Photoroom_11: -1846877082
+      GreenZone2-Photoroom_12: 924744596
+      GreenZone2-Photoroom_13: -235864953
+      GreenZone2-Photoroom_14: -742179520
+      GreenZone2-Photoroom_15: -1859271577
+      GreenZone2-Photoroom_16: -1605590603
+      GreenZone2-Photoroom_17: -453610063
+      GreenZone2-Photoroom_18: 1287058624
+      GreenZone2-Photoroom_19: 1904715802
+      GreenZone2-Photoroom_2: 805003825
+      GreenZone2-Photoroom_20: -1215073410
+      GreenZone2-Photoroom_21: 1874216809
+      GreenZone2-Photoroom_22: -413477029
+      GreenZone2-Photoroom_23: -1384474655
+      GreenZone2-Photoroom_24: 744458335
+      GreenZone2-Photoroom_25: -1887669415
+      GreenZone2-Photoroom_26: 1954209329
+      GreenZone2-Photoroom_27: 897278334
+      GreenZone2-Photoroom_28: -812743597
+      GreenZone2-Photoroom_29: 695295548
+      GreenZone2-Photoroom_3: -1922868292
+      GreenZone2-Photoroom_30: 884556340
+      GreenZone2-Photoroom_31: -1426160914
+      GreenZone2-Photoroom_32: 2058821487
+      GreenZone2-Photoroom_33: 737361392
+      GreenZone2-Photoroom_34: -1250666241
+      GreenZone2-Photoroom_35: 432340171
+      GreenZone2-Photoroom_36: -337569377
+      GreenZone2-Photoroom_37: 1071796772
+      GreenZone2-Photoroom_38: 1155950756
+      GreenZone2-Photoroom_39: -1679898789
+      GreenZone2-Photoroom_4: -1114537632
+      GreenZone2-Photoroom_40: -1495455089
+      GreenZone2-Photoroom_41: 1646125060
+      GreenZone2-Photoroom_42: -483923142
+      GreenZone2-Photoroom_43: 1987411160
+      GreenZone2-Photoroom_44: -1247907329
+      GreenZone2-Photoroom_45: 74736832
+      GreenZone2-Photoroom_46: 2122741044
+      GreenZone2-Photoroom_47: -1088550117
+      GreenZone2-Photoroom_48: 2046891287
+      GreenZone2-Photoroom_49: -1991129117
+      GreenZone2-Photoroom_5: 872923882
+      GreenZone2-Photoroom_50: -642306795
+      GreenZone2-Photoroom_51: -579926910
+      GreenZone2-Photoroom_52: -947992560
+      GreenZone2-Photoroom_53: 2142721204
+      GreenZone2-Photoroom_54: -1227222775
+      GreenZone2-Photoroom_55: 1726019395
+      GreenZone2-Photoroom_56: 720384861
+      GreenZone2-Photoroom_57: -601611472
+      GreenZone2-Photoroom_58: 572417959
+      GreenZone2-Photoroom_59: 396953303
+      GreenZone2-Photoroom_6: 905670185
+      GreenZone2-Photoroom_60: 1028730522
+      GreenZone2-Photoroom_61: -935087918
+      GreenZone2-Photoroom_62: -571892708
+      GreenZone2-Photoroom_63: -1562817731
+      GreenZone2-Photoroom_64: 454277053
+      GreenZone2-Photoroom_65: 1228610669
+      GreenZone2-Photoroom_66: 419216119
+      GreenZone2-Photoroom_67: -186962976
+      GreenZone2-Photoroom_68: -237061730
+      GreenZone2-Photoroom_69: -2017215500
+      GreenZone2-Photoroom_7: 169269224
+      GreenZone2-Photoroom_70: 214153416
+      GreenZone2-Photoroom_71: 420527724
+      GreenZone2-Photoroom_72: -161430764
+      GreenZone2-Photoroom_73: 156171716
+      GreenZone2-Photoroom_74: 33051975
+      GreenZone2-Photoroom_75: -486905471
+      GreenZone2-Photoroom_76: 90170943
+      GreenZone2-Photoroom_77: -1567348988
+      GreenZone2-Photoroom_78: 939106097
+      GreenZone2-Photoroom_79: -959253630
+      GreenZone2-Photoroom_8: 421239761
+      GreenZone2-Photoroom_80: -1310152216
+      GreenZone2-Photoroom_81: -1231497521
+      GreenZone2-Photoroom_82: -1909061459
+      GreenZone2-Photoroom_83: 562936197
+      GreenZone2-Photoroom_84: -1590662214
+      GreenZone2-Photoroom_85: -1206886406
+      GreenZone2-Photoroom_86: 869040349
+      GreenZone2-Photoroom_87: -275679128
+      GreenZone2-Photoroom_88: -430825271
+      GreenZone2-Photoroom_89: 243423219
+      GreenZone2-Photoroom_9: -820856907
+      GreenZone2-Photoroom_90: 40687780
+      GreenZone2-Photoroom_91: 1351844529
+      GreenZone2-Photoroom_92: 1059537315
+      GreenZone2-Photoroom_93: 1604977378
+      GreenZone2-Photoroom_94: 1380691021
+      GreenZone2-Photoroom_95: 868831087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
