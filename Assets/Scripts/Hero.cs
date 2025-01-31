@@ -7,9 +7,9 @@ using static UnityEngine.Rendering.DebugUI;
 
 public class Hero : MonoBehaviour
 {
-    [SerializeField] private float speed = 3f; // hero's movement speed
-    [SerializeField] private int maxlives = 7; // hero's health points
-    [SerializeField] private float jump_force = 15f; // hero's jump force
+    [SerializeField] private float speed = 3f; // скорость
+    [SerializeField] private int maxlives = 7; // жизни
+    [SerializeField] private float jump_force = 15f; // сила прыжка
 
     public Slider livesBar;
     public int lives;
@@ -30,6 +30,7 @@ public class Hero : MonoBehaviour
         UpdateLivesUI();
     }
 
+    //полоска жизней обновляется 
     void UpdateLivesUI()
     {
         if (livesBar!= null)
@@ -37,6 +38,8 @@ public class Hero : MonoBehaviour
             livesBar.value = (float)lives / maxlives;
         }
     }
+
+    //функция получения урона
     public void GetDamage()
     {
         lives -= 1;
@@ -48,6 +51,7 @@ public class Hero : MonoBehaviour
         }
     }
 
+    //появление ГГ на старте уровня с полным запасом здоровья
     private void Respawn()
     {
         transform.position = startPosition;
@@ -60,7 +64,7 @@ public class Hero : MonoBehaviour
             rb.linearVelocity = Vector2.zero;
         }
 
-        Debug.Log("����� �������� �� ��������� �������!");
+        Debug.Log("Игрок вернулся на стартовую позицию!");
     }
 
 
@@ -83,6 +87,7 @@ public class Hero : MonoBehaviour
         CheckGround();
     }
 
+    //бег и прыжок
     private void Update()
     {
         if (isGrounded) State = States.idle;
@@ -107,6 +112,7 @@ public class Hero : MonoBehaviour
         rb.AddForce(transform.up * jump_force, ForceMode2D.Impulse);
     }
 
+    //Проверка, на земле или нет
     private void CheckGround()
     {
         Collider2D[] collider = Physics2D.OverlapCircleAll(transform.position, 0.3f);
