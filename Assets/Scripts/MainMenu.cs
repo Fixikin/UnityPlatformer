@@ -4,11 +4,11 @@ using TMPro;
 
 public class MainMenu : MonoBehaviour
 {
-    [SerializeField] private GameObject continueButton; // Ссылка на кнопку "Продолжить"
+    [SerializeField] private GameObject continueButton; // РЎСЃС‹Р»РєР° РЅР° РєРЅРѕРїРєСѓ "РџСЂРѕРґРѕР»Р¶РёС‚СЊ"
 
     private void Start()
     {
-        // Если сохранённого уровня нет — скрыть кнопку "Продолжить"
+        // Р•СЃР»Рё СЃРѕС…СЂР°РЅС‘РЅРЅРѕРіРѕ СѓСЂРѕРІРЅСЏ РЅРµС‚ вЂ” СЃРєСЂС‹С‚СЊ РєРЅРѕРїРєСѓ "РџСЂРѕРґРѕР»Р¶РёС‚СЊ"
         if (!PlayerPrefs.HasKey("LastLevel"))
         {
             continueButton.SetActive(false);
@@ -17,7 +17,7 @@ public class MainMenu : MonoBehaviour
 
     public void PlayGame()
     {
-        SaveSystem.SaveLevel(1); // Начать с первого уровня
+        SaveSystem.SaveLevel(1); // РќР°С‡Р°С‚СЊ СЃ РїРµСЂРІРѕРіРѕ СѓСЂРѕРІРЅСЏ
         SceneManager.LoadScene("Level1");
     }
 
