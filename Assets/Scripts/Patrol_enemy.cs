@@ -22,6 +22,8 @@ public class Patrol_enemy : MonoBehaviour
         Move();
     }
 
+    //при столкновении с препятствием (кроме игрока) - разворачивается и идет обратно
+
     private void Move()
     {
         Collider2D[] colliders = Physics2D.OverlapCircleAll(transform.position + transform.up * 0.1f + transform.right * dir.x * 0.7f, 0.01f);
@@ -32,6 +34,7 @@ public class Patrol_enemy : MonoBehaviour
         sprite.flipX = dir.x < 0.0f;
     }
 
+    //при столкновении с игроком - игрок получает урон
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject == Hero.Instance.gameObject)
