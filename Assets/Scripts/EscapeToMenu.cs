@@ -3,11 +3,11 @@ using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
-    public string mainMenuSceneName = "MainMenu"; // Имя сцены главного меню
+    public string mainMenuSceneName = "MainMenu"; // РРјСЏ СЃС†РµРЅС‹ РіР»Р°РІРЅРѕРіРѕ РјРµРЅСЋ
 
     void Update()
     {
-        // Проверяем, нажата ли клавиша Esc
+        // РџСЂРѕРІРµСЂСЏРµРј, РЅР°Р¶Р°С‚Р° Р»Рё РєР»Р°РІРёС€Р° Esc
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             ReturnToMainMenu();
@@ -16,7 +16,7 @@ public class PauseMenu : MonoBehaviour
 
     public void ReturnToMainMenu()
     {
-        // Загружаем сцену главного меню
+        // Р—Р°РіСЂСѓР¶Р°РµРј СЃС†РµРЅСѓ РіР»Р°РІРЅРѕРіРѕ РјРµРЅСЋ
         SceneManager.LoadScene(mainMenuSceneName);
     }
 }
