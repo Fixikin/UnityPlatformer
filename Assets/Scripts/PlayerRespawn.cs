@@ -4,6 +4,8 @@ public class PlayerRespawn : MonoBehaviour
 {
     private Vector3 startPosition;
 
+    //появление на стартовой позиции уровня при падении за пределы карты
+
     void Start()
     {
         startPosition = transform.position;
